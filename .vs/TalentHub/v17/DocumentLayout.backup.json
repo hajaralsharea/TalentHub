@@ -1,0 +1,614 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1285C-6A96-4D7A-A35E-0C91B8416C91}|..\\..\\Modules\\Employment\\Employment.UI\\Employment.UI.csproj|c:\\users\\user\\source\\repos\\modules\\employment\\employment.ui\\clientuimodule\\lib\\components\\welcoming\\welcoming.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\talenthub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\talenthub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1285C-6A96-4D7A-A35E-0C91B8416C91}|..\\..\\Modules\\Employment\\Employment.UI\\Employment.UI.csproj|c:\\users\\user\\source\\repos\\modules\\employment\\employment.ui\\clientuimodule\\lib\\employment.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1285C-6A96-4D7A-A35E-0C91B8416C91}|..\\..\\Modules\\Employment\\Employment.UI\\Employment.UI.csproj|c:\\users\\user\\source\\repos\\modules\\employment\\employment.ui\\clientuimodule\\lib\\employment-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1285C-6A96-4D7A-A35E-0C91B8416C91}|..\\..\\Modules\\Employment\\Employment.UI\\Employment.UI.csproj|c:\\users\\user\\source\\repos\\modules\\employment\\employment.ui\\clientuimodule\\lib\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1285C-6A96-4D7A-A35E-0C91B8416C91}|..\\..\\Modules\\Employment\\Employment.UI\\Employment.UI.csproj|c:\\users\\user\\source\\repos\\modules\\employment\\employment.ui\\employment.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1285C-6A96-4D7A-A35E-0C91B8416C91}|..\\..\\Modules\\Employment\\Employment.UI\\Employment.UI.csproj|c:\\users\\user\\source\\repos\\modules\\employment\\employment.ui\\clientuimodule\\lib\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1285C-6A96-4D7A-A35E-0C91B8416C91}|..\\..\\Modules\\Employment\\Employment.UI\\Employment.UI.csproj|c:\\users\\user\\source\\repos\\modules\\employment\\employment.ui\\clientuimodule\\lib\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1285C-6A96-4D7A-A35E-0C91B8416C91}|..\\..\\Modules\\Employment\\Employment.UI\\Employment.UI.csproj|c:\\users\\user\\source\\repos\\modules\\employment\\employment.ui\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1285C-6A96-4D7A-A35E-0C91B8416C91}|..\\..\\Modules\\Employment\\Employment.UI\\Employment.UI.csproj|c:\\users\\user\\source\\repos\\modules\\employment\\employment.ui\\clientuimodule\\lib\\components\\welcoming\\welcoming.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1285C-6A96-4D7A-A35E-0C91B8416C91}|..\\..\\Modules\\Employment\\Employment.UI\\Employment.UI.csproj|c:\\users\\user\\source\\repos\\modules\\employment\\employment.ui\\clientuimodule\\lib\\permissions.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1285C-6A96-4D7A-A35E-0C91B8416C91}|..\\..\\Modules\\Employment\\Employment.UI\\Employment.UI.csproj|c:\\users\\user\\source\\repos\\modules\\employment\\employment.ui\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1285C-6A96-4D7A-A35E-0C91B8416C91}|..\\..\\Modules\\Employment\\Employment.UI\\Employment.UI.csproj|c:\\users\\user\\source\\repos\\modules\\employment\\employment.ui\\imodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD1786-81DB-6F89-B6A8-15D5DE42257E}|..\\..\\Modules\\Employment\\Employment.Domain\\Employment.Domain.csproj|c:\\users\\user\\source\\repos\\modules\\employment\\employment.domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD1786-81DB-6F89-B6A8-15D5DE42257E}|..\\..\\Modules\\Employment\\Employment.Domain\\Employment.Domain.csproj|c:\\users\\user\\source\\repos\\modules\\employment\\employment.domain\\employment.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD1786-81DB-6F89-B6A8-15D5DE42257E}|..\\..\\Modules\\Employment\\Employment.Domain\\Employment.Domain.csproj|c:\\users\\user\\source\\repos\\modules\\employment\\employment.domain\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|c:\\users\\user\\source\\repos\\applications\\talenthub\\talenthub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFED171D-E89B-4174-A23B-AE2EC0AA917A}|TalentHub\\TalentHub.csproj|solutionrelative:talenthub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B8A1-10C1-A511-DC1D-B93FF9A69C88}|..\\..\\Modules\\Employment\\Employment.Infra\\Employment.Infra.csproj|c:\\users\\user\\source\\repos\\modules\\employment\\employment.infra\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD1786-81DB-6F89-B6A8-15D5DE42257E}|..\\..\\Modules\\Employment\\Employment.Domain\\Employment.Domain.csproj|c:\\users\\user\\source\\repos\\modules\\employment\\employment.domain\\iservices\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\.vscode\\tasks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "TalentHub\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\app\\app.module.ts",
+              "RelativeToolTip": "TalentHub\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-20T20:11:48.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\package.json",
+              "RelativeDocumentMoniker": "TalentHub\\package.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\package.json",
+              "RelativeToolTip": "TalentHub\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T16:53:29.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TalentHub\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TalentHub\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T18:26:06.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "welcoming.component.html",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\components\\welcoming\\welcoming.component.html",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\components\\welcoming\\welcoming.component.html",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\components\\welcoming\\welcoming.component.html",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\components\\welcoming\\welcoming.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-20T19:21:58.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\angular.json",
+              "RelativeDocumentMoniker": "TalentHub\\angular.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\angular.json",
+              "RelativeToolTip": "TalentHub\\angular.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T18:11:59.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TalentHub\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\appsettings.Development.json",
+              "RelativeToolTip": "TalentHub\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T18:24:24.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\.gitignore",
+              "RelativeDocumentMoniker": "TalentHub\\.gitignore",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\.gitignore",
+              "RelativeToolTip": "TalentHub\\.gitignore",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-23T15:27:22.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TalentHub.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\TalentHub.csproj",
+              "RelativeDocumentMoniker": "TalentHub\\TalentHub.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\TalentHub.csproj",
+              "RelativeToolTip": "TalentHub\\TalentHub.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-19T18:23:46.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "employment.module.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\employment.module.ts",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\employment.module.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\employment.module.ts",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\employment.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-23T14:58:06.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "employment-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\employment-routing.module.ts",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\employment-routing.module.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\employment-routing.module.ts",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\employment-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-20T19:03:27.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "TalentHub\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\app\\app.component.html",
+              "RelativeToolTip": "TalentHub\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-20T20:11:57.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "TalentHub\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "TalentHub\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-20T20:01:32.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "TalentHub\\src\\app\\app.config.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\app\\app.config.ts",
+              "RelativeToolTip": "TalentHub\\src\\app\\app.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-21T17:25:57.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\main.ts",
+              "RelativeDocumentMoniker": "TalentHub\\src\\main.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\main.ts",
+              "RelativeToolTip": "TalentHub\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-21T17:28:38.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\index.html",
+              "RelativeDocumentMoniker": "TalentHub\\src\\index.html",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\index.html",
+              "RelativeToolTip": "TalentHub\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-23T15:23:38.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\package-lock.json",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\package-lock.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\package-lock.json",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T15:39:14.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "TalentHub\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\app\\app.component.ts",
+              "RelativeToolTip": "TalentHub\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-20T20:12:09.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employment.UI.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\Employment.UI.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.UI\\Employment.UI.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\Employment.UI.csproj",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.UI\\Employment.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-19T20:30:47.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\styles.css",
+              "RelativeDocumentMoniker": "TalentHub\\src\\styles.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\styles.css",
+              "RelativeToolTip": "TalentHub\\src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-23T15:27:13.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "TalentHub\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\src\\app\\app.component.css",
+              "RelativeToolTip": "TalentHub\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-23T15:22:28.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\Program.cs",
+              "RelativeDocumentMoniker": "TalentHub\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\Program.cs",
+              "RelativeToolTip": "TalentHub\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T18:25:10.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\tsconfig.json",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\tsconfig.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\tsconfig.json",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T17:23:31.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\package.json",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\package.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\package.json",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T17:24:08.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\README.md",
+              "RelativeDocumentMoniker": "TalentHub\\README.md",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\README.md",
+              "RelativeToolTip": "TalentHub\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-21T16:54:51.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\.gitignore",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.UI\\.gitignore",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\.gitignore",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.UI\\.gitignore",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-20T19:58:12.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "welcoming.component.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\components\\welcoming\\welcoming.component.ts",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\components\\welcoming\\welcoming.component.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\components\\welcoming\\welcoming.component.ts",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\components\\welcoming\\welcoming.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-20T19:22:04.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "permissions.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\permissions.ts",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\permissions.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\permissions.ts",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.UI\\ClientUIModule\\lib\\permissions.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-20T19:07:57.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\Module.cs",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.UI\\Module.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\Module.cs",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.UI\\Module.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:06:14.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IModule.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\IModule.cs",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.UI\\IModule.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\IModule.cs",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.UI\\IModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:16:21.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Employment.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.Domain\\Employment.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.Domain\\Employment.Domain.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.Domain\\Employment.Domain.csproj",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.Domain\\Employment.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-19T20:31:05.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.Infra\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.Infra\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.Infra\\Class1.cs",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.Infra\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T18:46:44.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.Domain\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.Domain\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.Domain\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.Domain\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T18:41:17.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.Domain\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.Domain\\Services\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.Domain\\Services\\CompanyService.cs",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.Domain\\Services\\CompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T18:38:09.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.UI\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\.vscode\\launch.json",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.UI\\.vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T19:25:42.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "tasks.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\.vscode\\tasks.json",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.UI\\.vscode\\tasks.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.UI\\.vscode\\tasks.json",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.UI\\.vscode\\tasks.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T19:26:25.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TalentHub\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\WeatherForecast.cs",
+              "RelativeToolTip": "TalentHub\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T18:23:00.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.Domain\\IServices\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Modules\\Employment\\Employment.Domain\\IServices\\ICompanyService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Modules\\Employment\\Employment.Domain\\IServices\\ICompanyService.cs",
+              "RelativeToolTip": "..\\..\\Modules\\Employment\\Employment.Domain\\IServices\\ICompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T18:37:24.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\appsettings.json",
+              "RelativeDocumentMoniker": "TalentHub\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Applications\\TalentHub\\TalentHub\\appsettings.json",
+              "RelativeToolTip": "TalentHub\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T18:24:31.771Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
