@@ -1,9 +1,11 @@
 using Employment.UI;
+using Microsoft.EntityFrameworkCore;
+using TalentHub.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// 1. إعدادات قاعدة البيانات
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // 2. إضافة الـ Controllers
 builder.Services.AddControllers();
